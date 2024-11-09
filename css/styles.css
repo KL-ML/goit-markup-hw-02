@@ -18,6 +18,7 @@ body {
     color: var(--text-color);
     background-color: var(--brand-color-white);
     line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
 ul,
@@ -83,7 +84,6 @@ a {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
-    color: var(--brand-color-dark);
     letter-spacing: 0.02em;
 }
 .hero-btn {
@@ -118,9 +118,8 @@ a {
     color: var(--brand-color-dark);
     letter-spacing: 0.02em;
 }
-.card-paragraf {
-    letter-spacing: 0.02em;
-}
+/* .card-paragraf {
+} */
 
 .team-section {
     background-color: var(--brand-color-grey);
